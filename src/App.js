@@ -8,8 +8,8 @@ export default function App() {
 			<video
         preload="true"
 				controls
-				controlslist='nodownload'
-				autoplay='true'
+				controlsList='nodownload'
+				autoPlay={true}
 				loop
 				poster='https://lh3.googleusercontent.com/IXafC13izthRy8zgOmo2vlY2f1b0Yis7GyAgcM_uHIRnx0NopRRekdtDl7j-5HBdSAh54jrkQP3MBL6Jugj3mB5k-pdZoJu78loDvQ'
 				style={{
